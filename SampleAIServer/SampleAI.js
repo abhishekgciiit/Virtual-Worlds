@@ -33,7 +33,7 @@ var server = net.createServer(function(c) { //'connection' listener
 			console.log("angleToTarget");
 			console.log(angleToTarget);
 			console.log("forwardAngle");
-			console.log(forwardangle);
+			console.log(forwardAngle);
 			console.log("Angle");
 			console.log(angle);
 			

@@ -1,6 +1,5 @@
 Car Simulator
 =============
-
 This is the simulation platform for the self driving vehicle at https://github.com/derivatived/self-driving-car.
 
 Overview
